@@ -1,2 +1,3 @@
-# sistema_de_ventas
- sistema de ventas con php
+# sysventas
+
+sistema de ventas con php
